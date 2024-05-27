@@ -21,5 +21,9 @@ const styles = StyleSheet.create({
     color:'white',
     fontSize:24,
     fontWeight:'bold'
+  },
+  description:{
+    color:'white',
+    fontSize:24,
   }
 });
